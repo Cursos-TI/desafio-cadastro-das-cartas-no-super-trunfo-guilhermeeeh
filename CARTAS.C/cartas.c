@@ -57,7 +57,7 @@ int Pontosturisticos;
     scanf("%f", &Areaemkm);
 
     printf("Digite o PIB:\n");
-    scanf("%f", PiB);
+    scanf("%f", &PiB);
 
     printf("Digite os pontos turisticos:\n");
     scanf("%d", &Pontosturisticos);
